@@ -24,6 +24,7 @@ A small compilation of my favorite Swift resources.
 ### Libraries
 * [Medium Article](https://medium.com/app-coder-io/27-ios-open-source-libraries-to-skyrocket-your-development-301b67d3124c#.kwidnyt8m) - This article is amazing and has some of the best libraries you might need for your apps. Even if you think you don't need these libraries, you will after reading this.
 * [Awesome Swift](https://github.com/matteocrippa/awesome-swift#alert) - Your one and only source for finding the best libraries in existence for every one of your library needs. However, there are a few in the medium article not mentioned on here.
+* [iOS Charts](https://github.com/danielgindi/ios-charts) - A nifty library to make cool charts and graphs.
 
 ### Icons
 * [Icons8](https://icons8.com/web-app/category/ios7/Very-Basic) - A huge set of icons that you can use for tab bar and within your app. You have to pay for larger icons, but generally screenshots of the icon previews has worked for me.
