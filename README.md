@@ -9,6 +9,7 @@ A small compilation of my favorite Swift resources.
 - [Libraries](#libraries)
 - [Icons](#icons)
 - [Designs](#designs)
+- [Articles](#articles)
 
 ### Blogs
 * [Reddit](https://www.reddit.com/r/iOSProgramming/) - Good for staying up to date on Swift.
@@ -33,3 +34,6 @@ A small compilation of my favorite Swift resources.
 ### Designs
 * [Design Code](https://designcode.io/) - I haven't explored this much, but it looks interesting.
 * [UI Kit](http://mercury.io/blog/free-ios-9-3-iphone-ui-kit-for-illustrator-and-sketch) - Free UIKit for Illustrator and Sketch.
+
+### Articles
+* [Search Controller VS Search Display Controller](https://possiblemobile.com/2015/05/uisearchcontroller-vs-uisearchdisplaycontroller/) - Comparing the deprecated search display controller to the new search controller.
