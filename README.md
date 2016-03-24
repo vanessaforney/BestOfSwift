@@ -21,6 +21,7 @@ A small compilation of my favorite Swift resources.
 * [Fastlane](https://fastlane.tools/) - Various iOS tools including one to automatically take screenshots of different screens on every device, put screenshots into right device frames, setting up provisioning, etc.
 * [Paintcode](http://www.paintcodeapp.com/) - Animate your drawings with code. Essentially you can move them or change colors. I haven't tried it, but it looks pretty cool.
 * [GeoFire](https://www.firebase.com/blog/2014-06-23-geofire-two-point-oh.html) - A Firebase tool to help you query a set of items based on geographic location. Loads the data near a location to keep your apps lighter even with large datasets.
+* [Prepo](https://itunes.apple.com/us/app/prepo/id476533227?mt=12) - Resize images on your MacBook automatically to different sizes (good for launch images and app icons).
 
 ### Libraries
 * [Medium Article](https://medium.com/app-coder-io/27-ios-open-source-libraries-to-skyrocket-your-development-301b67d3124c#.kwidnyt8m) - This article is amazing and has some of the best libraries you might need for your apps. Even if you think you don't need these libraries, you will after reading this.
